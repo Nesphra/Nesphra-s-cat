@@ -4,7 +4,9 @@ body {
     background-image: url("https://pixfeeds.com/images/animals/kangaroos/1280-155154437-jumping-red-kangaroo.jpg");
     background-size: 100%;
     background-position-y: 20%;
+    background-position-x: 100%;
     background-repeat: no-repeat;
+    background-blend-mode: 
     background-color : violet;
     padding : 10px 5px 10px 5px;
 }
@@ -15,7 +17,7 @@ body {
     color : #8a2be2;
     position : absolute ;
     width : 100% ;
-    bottom : 0px ;
+    bottom : -100px ;
 }
 
 h6{
