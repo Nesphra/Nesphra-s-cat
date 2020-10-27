@@ -26,3 +26,9 @@ p{
     color : white;
     background-color : black
 }
+
+#souljaboi{
+    width: 250px;
+    position : fixed ;
+    right: 150px ;
+}
